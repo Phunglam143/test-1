@@ -5,3 +5,4 @@ function hienthi(){
         document.getElementById('htdm').style.display="none";
     }
 }
+lammmmmmmmm
